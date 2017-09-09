@@ -1,0 +1,16 @@
+SFML
+
+
+
+MENU:	APPLECALYPSE
+			Start
+			How To Play
+			Exit
+
+In How To Play: 
+
+The goal of this game is to find the BIG RED APPLE !
+Two players are put in an invisible maze.
+Players need to find a way in order to grab the apple and WIN THE GAME !
+
+In Looking the maze with block just go to: Game_Screen.hpp and follow the instructions :)
